@@ -7,3 +7,4 @@ Key features include:
 * **Distributed architecture**: Each user has a full copy of the repository.
 
 Git is widely used in both open-source and commercial projects, often in conjunction with platforms like **GitHub**, **GitLab**, or **Bitbucket**.
+added new lines to make commit...
